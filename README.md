@@ -1,4 +1,4 @@
-# 🧠 NeuroSeg AI 🔬
+# 🧠 Medical-Imaging-Triage-System 🔬
 
 An AI-powered web application for the detection and segmentation of brain tumors from MRI scans, built with a U-Net architecture in TensorFlow and a modern Gradio interface.
 
